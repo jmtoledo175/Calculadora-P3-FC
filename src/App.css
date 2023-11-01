@@ -5,14 +5,14 @@
 
 html,
 body {
-  background-color: #e57d90;
+  background-color: black;
   align-items: center;
   justify-content: center;
 }
 .App {
   height: 100vh;
   padding-top: 10px;
-  background-color: #e57d90;
+  background-color: #734a91;
   font-family: Lato, sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -47,7 +47,7 @@ body {
   width: 400px;
   height: 600px;
   padding: 14px;
-  background-color: #ffcdd4;
+  background-color: #ffe0ff;
   border-radius: 20px;
   border: 5px solid white;
 }

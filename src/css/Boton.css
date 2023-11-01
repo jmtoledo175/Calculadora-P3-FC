@@ -6,7 +6,7 @@
   flex: 1 1;
   font-weight: bold;
   font-size: 38px;
-  background-color: #f99aaa;
+  background-color: #c1a8ce;
   color: white;
   border-radius: 25px;
   border: 2px solid white;
@@ -16,13 +16,13 @@
 }
 
 .boton-contenedor:hover {
-  background-color: #f74780;
+  background-color: #bbb3ff;
 }
 
 .operador {
-  background-color: #e44f9c;
+  background-color: #e0b0ff;
 }
 
 .operador:hover {
-  background-color: #ff97d9;
+  background-color: #bbb3ff;
 }
